@@ -51,7 +51,3 @@ Dataset consists following columns:
 • Random Forest Regressor
 
 • XGBoost Regressor
-
-<h2>A Glips of the app</h2>
-
-<img src="C:\Users\amit gupta\OneDrive\Pictures\Screenshots\IPL.png"></img>
