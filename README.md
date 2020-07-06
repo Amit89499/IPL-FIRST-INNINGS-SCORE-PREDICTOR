@@ -43,6 +43,7 @@ Dataset consists following columns:
 • total: Total runs scored by batting team at the end of first innings.
 
 <h2>Algorithms Used :</h2>
+
 • Linear Regression
 
 • Ridge Regression
@@ -50,3 +51,7 @@ Dataset consists following columns:
 • Random Forest Regressor
 
 • XGBoost Regressor
+
+<h2>A Glips of the app</h2>
+
+<img src="C:\Users\amit gupta\OneDrive\Pictures\Screenshots\IPL.png"></img>
