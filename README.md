@@ -1,6 +1,7 @@
 # IPL-FIRST-INNINGS-SCORE-PREDICTOR-DEPLOYMENT
 
 <h2>Demo Link :</h2>https://ipl-score-pred.herokuapp.com/
+<img src="Predictor.png">
 
 <h2>Problem Statement</h2>
 
